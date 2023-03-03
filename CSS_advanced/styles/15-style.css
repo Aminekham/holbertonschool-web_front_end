@@ -1,6 +1,6 @@
 @import url("/CSS_advanced/normalize.css");
 *::after{
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 *::before{
     box-sizing: border-box;
